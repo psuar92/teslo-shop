@@ -1,13 +1,19 @@
 # Welcome!
 
-This is a fullstack e-commerce store built with Next.js
+This is a fullstack e-commerce store built with Next.js.
 
-Technologies used so far:
+## Technologies Used
 
-[x] Next.js 14
-[x] Typescript
-[x] Zustand for state management
-[x] Tailwind CSS for styling
-... and more to be added soon
+- [x] **Next.js 14**
+- [x] **TypeScript**
+- [x] **Zustand for state management**
+- [x] **Tailwind CSS for styling**
+- [ ] **... and more to be added soon**
 
-# Work in progress...
+## Project Status
+- [x] **Project Skeleton**
+- [x] **Authentication**
+- [x] **Backend Integration (CRUD)**
+
+
+## Work in Progress...
