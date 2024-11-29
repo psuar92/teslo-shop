@@ -1,6 +1,6 @@
 # Welcome!
 
-This is a fullstack e-commerce store built with Next.js.
+This is a fullstack e-commerce store built with Next.js (Inspired by the official Tesla Shop).
 
 ## Technologies Used
 
